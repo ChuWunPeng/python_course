@@ -1,10 +1,7 @@
-<<<<<<< HEAD
 # python_course
-=======
----
+# python_course
 title: 歡迎來到python小教室
 tags: [onboarding]
----
 # pythoncourse
 ## course1
 這是course1
@@ -17,4 +14,5 @@ tags: [onboarding]
 
 ## course2
 這是course2
->>>>>>> 54bcc71 (初次上傳專案)
+
+
