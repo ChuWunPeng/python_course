@@ -15,4 +15,6 @@ tags: [onboarding]
 ## course2
 這是course2
 
+opencv [臉部辨識](https://github.com/opencv/opencv/tree/4.x/data/haarcascades)
+
 
