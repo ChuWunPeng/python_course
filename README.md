@@ -22,9 +22,9 @@
 opencv [臉部辨識](https://github.com/opencv/opencv/tree/4.x/data/haarcascades)
 
 OpenCV臉部辨識模型為.xml格式
-1. face_recognition -> 讀取訓練好的模型，開始辨識
+1. face_detect -> 使用openCV 開源模型讀取(.xml)、及模型使用
 2. faces_train -> 創建訓練資料(features, labels)，成.npy檔，並用模型訓練，訓練好的結果存成.yml檔
-3. face_detect -> 使用openCV 開源模型讀取(.xml)、及模型使用
+3. face_recognition -> 讀取訓練好的模型，開始辨識
 
 ## Deep Learning
 
