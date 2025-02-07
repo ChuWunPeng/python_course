@@ -1,6 +1,6 @@
 import cv2 as cv
 
-img = cv.imread("image/Photos/cats.jpg")
+img = cv.imread("Photos/cats.jpg")
 
 
 # Averaging

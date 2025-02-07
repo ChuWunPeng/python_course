@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 
 blank  =  np.zeros((500,500,3),dtype = 'uint8')
-img = cv.imread('image/Photos/cat.jpg')
+img = cv.imread('Photos/cat.jpg')
 cv.imshow('Blank',blank)
 cv.imshow('cat', img)
 

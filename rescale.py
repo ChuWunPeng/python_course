@@ -2,7 +2,7 @@
 import cv2 as cv
 #%% Read image
 
-# img = cv.imread('image/Photos/cat_large.jpg')
+# img = cv.imread('Photos/cat_large.jpg')
 
 def rescaleFrame(frame,scale =.25):
     width = int(frame.shape[1]*scale)
